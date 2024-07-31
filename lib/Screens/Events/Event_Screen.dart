@@ -4,7 +4,6 @@ import 'package:city_church_app/Models/JModels.dart';
 import 'package:city_church_app/Widgets/CustomAppBarDrawer.dart';
 import 'package:city_church_app/Widgets/CustomBackgroundImage.dart';
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
 import 'Past_Events.dart';
 import 'Upcoming_Events.dart';
 
